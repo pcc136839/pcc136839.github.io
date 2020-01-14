@@ -1,0 +1,23 @@
+body {
+		background-color:#50B963;
+			display:inline;
+				margin-left: 20px;
+}
+a{ color:#FFFFFF;
+	text-decoration:none;
+	}
+	a:hover {
+				color:#2AFF00;
+}
+		img{
+	float:right;
+	}
+
+div{
+	width:1200px;
+	height:800px;
+	background-color:#13C0D5;
+	margin-left:auto;
+	margin-right: auto;
+	border-radius:20px;
+}

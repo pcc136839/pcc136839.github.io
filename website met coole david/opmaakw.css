@@ -1,0 +1,16 @@
+body {
+		background-color:#EDE8B8;
+			display:inline;
+				margin-left: 20px;
+}
+a{ color:#FFFFFF;
+	text-decoration:none;
+	}
+a:hover{
+	color:#95DF62;
+}
+
+		img{
+	float:right;
+	}
+

@@ -1,0 +1,14 @@
+body {
+		background-color:#F3F297;
+			display:inline;
+				margin-left: 20px;
+}
+a{ color:#FFFFFF;
+	text-decoration:none;
+	}
+	a:hover {
+		color:#FFF500;}
+
+		img{
+	float:right;
+	}
